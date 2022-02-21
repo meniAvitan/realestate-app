@@ -1,0 +1,13 @@
+.card {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.propImg {
+    height: 350px;
+    width: auto;
+    object-fit: cover;
+}
+
+.card-body {}
